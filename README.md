@@ -113,9 +113,12 @@ The notebook generates figures, numerical tables, fitted models and reproducibil
 
 ## Data
 
-The analysis uses pre-extracted numerical genomic feature representations derived from SARS-CoV-2 sequence records.
+The analysis uses pre-extracted numerical genomic feature representations derived from SARS-CoV-2 sequence records. The pre-extracted feature datasets were made available for this project through the **MLMethodsStability** GitHub repository provided by the dissertation supervisor, avoiding the need to repeat the computationally intensive feature-extraction process.
 
-The notebook expects feature files to be placed in:
+Source repository: https://github.com/robcah/MLMethodsStability
+
+The notebook expects the required feature files to be placed in:
+
 
 ```text
 data/Features_extracted/
