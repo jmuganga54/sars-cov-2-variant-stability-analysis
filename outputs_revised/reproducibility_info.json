@@ -1,0 +1,23 @@
+{
+  "analysis_datetime": "2026-08-15T09:30:30.724489",
+  "python_version": "3.11.15",
+  "platform": "macOS-26.2-arm64-arm-64bit",
+  "random_state": 42,
+  "target_column": "scorpio_lineage_min",
+  "id_column": "taxon",
+  "feature_start_after_column": "timedelta_days",
+  "test_size": 0.2,
+  "cv_n_splits": 5,
+  "cv_n_repeats": 2,
+  "rare_class_strategy": "exclude_below_threshold",
+  "min_class_size_main": 30,
+  "selected_feature_representations": [
+    "KMC",
+    "KMNV",
+    "NV"
+  ],
+  "selected_model_name": "Random Forest",
+  "bootstrap_repetitions_requested": 200,
+  "use_stratified_bootstrap": true,
+  "quick_test_mode": false
+}

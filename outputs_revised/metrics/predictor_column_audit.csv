@@ -1,0 +1,7 @@
+feature_representation,target_column,id_column,timedelta_days_present,timedelta_days_in_predictors,target_in_predictors,id_in_predictors,n_total_columns,n_metadata_columns_present,n_candidate_predictors
+ANV,scorpio_lineage_min,taxon,True,False,False,False,24,5,18
+ENV,scorpio_lineage_min,taxon,True,False,False,False,1542,5,1536
+KMC,scorpio_lineage_min,taxon,True,False,False,False,70,5,64
+KMNV,scorpio_lineage_min,taxon,True,False,False,False,198,5,192
+NV,scorpio_lineage_min,taxon,True,False,False,False,18,5,12
+WMRV,scorpio_lineage_min,taxon,True,False,False,False,24,5,18

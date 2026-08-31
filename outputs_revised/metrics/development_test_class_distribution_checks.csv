@@ -1,0 +1,2 @@
+n_classes_total,n_classes_development,n_classes_test,smallest_development_class,smallest_test_class,largest_development_class,largest_test_class,maximum_absolute_proportion_difference
+19,19,19,26,6,23509,5877,2.6534394869701106e-05

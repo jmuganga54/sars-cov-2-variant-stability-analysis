@@ -1,0 +1,7 @@
+feature_representation,metadata_columns_present,excluded_after_feature_marker,first_10_predictors
+ANV,pangolin_lineage; scorpio_lineage_min; taxon; collection_date; timedelta_days,,n_A; n_C; n_G; n_T; δ_A; δ_C; δ_G; δ_T; D_A; D_C
+ENV,pangolin_lineage; scorpio_lineage_min; taxon; collection_date; timedelta_days,,n_0; n_1; n_2; n_3; n_4; n_5; n_6; n_7; n_8; n_9
+KMC,pangolin_lineage; scorpio_lineage_min; taxon; collection_date; timedelta_days,,AAA; AAC; AAG; AAT; ACA; ACC; ACG; ACT; AGA; AGC
+KMNV,pangolin_lineage; scorpio_lineage_min; taxon; collection_date; timedelta_days,,n_00; n_01; n_02; n_03; n_04; n_05; n_06; n_07; n_08; n_09
+NV,pangolin_lineage; scorpio_lineage_min; taxon; collection_date; timedelta_days,,n_A; n_C; n_G; n_T; µ_A; µ_C; µ_G; µ_T; D_A; D_C
+WMRV,pangolin_lineage; scorpio_lineage_min; taxon; collection_date; timedelta_days,,n_R; n_Y; µ_R; µ_Y; D_R; D_Y; n_M; n_K; µ_M; µ_K

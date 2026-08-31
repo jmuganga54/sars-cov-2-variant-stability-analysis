@@ -1,0 +1,2 @@
+strategy,min_class_size,classes_before,classes_after,observations_before,observations_after,observations_removed,affected_classes
+exclude_below_threshold,30,23,19,135780,135752,28,B.1.1.529; BA.2; BA.3; AV.1

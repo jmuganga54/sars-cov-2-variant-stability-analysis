@@ -1,0 +1,2 @@
+model,mean_macro_f1,sd_macro_f1_across_reps,mean_balanced_accuracy,mean_macro_recall,mean_weighted_f1,mean_log_loss,mean_brier_score,mean_fit_time_seconds,total_failed_fits,probability_supported,rank_macro_f1,rank_balanced_accuracy,rank_macro_f1_consistency,rank_probability_quality,rank_training_time,rank_failed_fits,model_selection_rank_sum
+Random Forest,0.8608436113294408,0.12234533348798275,0.8520207969580028,0.8520207969580028,0.9125862566758353,0.39185428867737454,0.162011500984327,6.469743990898132,0,True,1.0,1.0,3.0,2.0,6.0,1.0,14.0

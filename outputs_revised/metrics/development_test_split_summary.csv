@@ -1,0 +1,2 @@
+n_total,n_development,n_test,test_size,n_classes,random_state
+135752,108601,27151,0.2,19,42

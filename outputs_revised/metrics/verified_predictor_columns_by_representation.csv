@@ -1,0 +1,7 @@
+feature_representation,n_verified_predictors,first_5_predictors
+ANV,18,n_A; n_C; n_G; n_T; δ_A
+ENV,1536,n_0; n_1; n_2; n_3; n_4
+KMC,64,AAA; AAC; AAG; AAT; ACA
+KMNV,192,n_00; n_01; n_02; n_03; n_04
+NV,12,n_A; n_C; n_G; n_T; µ_A
+WMRV,18,n_R; n_Y; µ_R; µ_Y; D_R
